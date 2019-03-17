@@ -1,4 +1,4 @@
 # ai
 
 
-[github](github.com)
+[github](https://www.github.com)
